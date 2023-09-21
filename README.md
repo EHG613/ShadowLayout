@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/lihangleo2/ShadowLayout.svg)](https://jitpack.io/#lihangleo2/ShadowLayout)
+
 
 ## 万能阴影布局，定制化你要的阴影。 ShadowLayout 2.0震撼上线（需要阴影地方，被它嵌套即可享受阴影，阴影可定制化，效果赶超CardView）
 * 支持定制化阴影
@@ -44,7 +44,7 @@
  - app build.gradle添加如下
     ```java
    dependencies {
-	        implementation 'com.github.lihangleo2:ShadowLayout:2.1.7'
+	        implementation 'com.github.EHG613:ShadowLayout:2.1.10'
 	}
    ```
    
